@@ -1,0 +1,379 @@
+0, Chief Executives, https://en.wikipedia.org/wiki/Chief_Executive_(magazine)
+1, Advertising and Promotions Managers, https://www.mynextmove.org/profile/summary/11-2011.00?print=1
+2, Computer and Information Systems Managers, https://www.mynextmove.org/profile/summary/11-3021.00
+3, Lawyers, http://labdabiztos.blog.hu/2010/11/20/a_masodosztaly_aranykora
+4, General and Operations Managers, https://en.wikipedia.org/wiki/David_L._Gunn
+5, Marketing Managers, https://en.wikipedia.org/wiki/Marketing_management
+6, Sales Managers, https://en.wikipedia.org/wiki/Albert_Oll%C3%A9_Bartolom%C3%A9
+7, Education Administrators, Postsecondary, http://coursewareincontext.org/about/
+8, Prosthodontists, https://www.mynextmove.org/profile/summary/29-1024.00?print=1
+9, Graduate Teaching Assistants, https://en.wikipedia.org/wiki/Teaching_assistant
+10, Physicians and Surgeons, All Other, http://commons.wikimedia.org/wiki/File:US_Navy_030223-N-8119R-001_Doctors_perform_surgery.jpg
+11, Construction Managers, https://en.wikipedia.org/wiki/Project_manager#Software_Project_Manager
+12, Social Science Research Assistants, https://en.wikipedia.org/wiki/Social_work
+13, Education Administrators, Elementary and Secondary School, http://flickr.com/photos/ftmeade/6100550338
+14, Market Research Analysts and Marketing Specialists, https://www.mynextmove.org/profile/summary/13-1161.00
+15, Management Analysts, https://www.mynextmove.org/vets/profile/summary/13-1111.00?print=1
+16, Architectural and Engineering Managers, https://en.wikipedia.org/wiki/Project_manager#Software_Project_Manager
+17, Computer and Information Research Scientists, http://weelookang.blogspot.com/2013/01/rvhs-research-design-for-scaling-up.html#!
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products NOT FOUND
+19, Accountants, http://bestaccountants.wikidot.com/
+20, Public Relations and Fundraising Managers, http://2013.igem.org/wiki/index.php?title=Team:TecMonterrey/team.html&oldid=361487
+21, Information Technology Project Managers, https://www.mynextmove.org/profile/summary/11-3021.00
+22, Producers, https://en.wikipedia.org/wiki/Primary_producers
+23, Registered Nurses, https://www.mynextmove.org/profile/summary/29-1141.00
+24, Human Resources Specialists, https://commons.wikimedia.org/wiki/File:Selfless_Service,_Military_Police_Soldiers_Postpone_College_to_Serve_DVIDS229136.jpg
+25, Sociology Teachers, Postsecondary, https://bccampus.ca/tag/sotl/
+Engineering Technicians, Except Drafters, All Other NOT FOUND
+27, Solar Sales Representatives and Assessors, https://www.australiansolarquotes.com.au/solar-energy-matters/
+28, Web Developers, https://80000hours.org/career-guide/reports/software-engineering-at-large-tech-firms/
+29, Managers, All Other, https://en.wikipedia.org/wiki/Carried_interest
+First-Line Supervisors of Non-Retail Sales Workers NOT FOUND
+31, Medical and Health Services Managers, http://www.resumes-cover-letters-jobs.com/top-paying-jobs-into-2022.html
+32, Human Resources Managers, https://en.wikipedia.org/wiki/The_Human_Resources_Manager
+33, Multimedia Artists and Animators, https://www.mynextmove.org/profile/summary/27-1014.00
+34, Business Teachers, Postsecondary, https://www.flickr.com/photos/vdoe/9043167257
+35, Baristas, https://commons.wikimedia.org/wiki/File:Baristas_first_starbucks.jpg
+36, Pharmacists, https://en.wikipedia.org/wiki/Pharmacist
+37, Personal Financial Advisors, http://uk.rankbank.com/what-option-do-you-use-as-a-pension-calculator__p451
+38, Financial Managers, Branch or Department, https://www.mynextmove.org/profile/summary/11-3031.02
+39, Education Administrators, Preschool and Childcare Center/Program, https://www.mynextmove.org/profile/summary/11-9031.00
+Architects, Except Landscape and Naval NOT FOUND
+41, Legislators, https://en.wikipedia.org/wiki/Legislative_power
+42, Executive Secretaries and Executive Administrative Assistants, http://www.mynextmove.org/profile/summary/43-6011.00
+43, Property, Real Estate, and Community Association Managers, https://en.wikipedia.org/wiki/National_Association_of_Realtors
+44, Educational, Guidance, School, and Vocational Counselors, https://en.wikipedia.org/wiki/College_admissions_in_the_United_States
+45, Investment Fund Managers, https://www.mynextmove.org/profile/summary/11-9199.03
+46, City and Regional Planning Aides, https://en.wikipedia.org/wiki/Healthcare_in_Tanzania
+47, Treasurers and Controllers, https://www.mynextmove.org/profile/summary/11-3031.01
+48, Meeting, Convention, and Event Planners, http://www.flickr.com/photos/shreveportbossier/11405552826/
+49, Paralegals and Legal Assistants, https://hubtechinsider.wordpress.com/2013/06/12/seeking-a-paralegal-legal-assistant-for-a-high-profile-law-office-in-wellesley-massachusetts/
+50, Coaches and Scouts, https://en.wikipedia.org/wiki/Matt_Sinatro
+51, Foundry Mold and Coremakers, https://en.wikipedia.org/wiki/Sand_casting
+52, Biofuels/Biodiesel Technology and Product Development Managers, http://www.mynextmove.org/profile/summary/11-9041.01
+53, Software Developers, Systems Software, https://en.wikipedia.org/wiki/Software_engineering
+54, Retail Salespersons, https://en.wikipedia.org/wiki/Bestbuy
+55, Public Relations Specialists, https://www.flickr.com/photos/myfuturedotcom/6052952269/
+56, Computer Programmers, https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+57, Computer User Support Specialists, https://www.mynextmove.org/vets/profile/summary/15-1151.00?print=1
+58, Astronomers, https://en.wikipedia.org/wiki/Amateur_astronomy
+59, Social and Community Service Managers, http://www.mynextmove.org/profile/summary/11-9151.00
+60, Telecommunications Engineering Specialists, https://en.wikipedia.org/wiki/Telecommunications_engineering
+61, Civil Engineers, https://en.wikipedia.org/wiki/Civil_engineer
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic NOT FOUND
+63, Software Developers, Applications, https://www.mynextmove.org/profile/summary/15-1132.00
+64, Training and Development Managers, https://www.flickr.com/photos/rdecom/4166795482
+65, Elementary School Teachers, Except Special Education, https://en.wikipedia.org/wiki/Physical_education
+66, Social and Human Service Assistants, https://ijboudreaux.com/
+67, Computer Systems Analysts, https://www.mynextmove.org/vets/profile/summary/15-1121.00?print=1
+68, Advertising Sales Agents, http://financialplanningpeak.blogspot.com/2012/01/tips-to-sell-houses.html
+69, Administrative Services Managers, http://www.brioleadership.com/blog
+70, Business Operations Specialists, All Other, http://confengine.com/agile-india-2016/proposal/1441/is-there-a-golden-ratio-number-of-test-specialists-per-development-specialist-in-an-agile-team
+71, Recreation Workers, https://en.wikipedia.org/wiki/Recreation
+72, Search Marketing Strategists, https://www.flickr.com/photos/search-engine-optimization/2591088919/
+73, Mathematical Science Teachers, Postsecondary, https://en.wikipedia.org/wiki/Environmental_education
+74, Real Estate Brokers, http://www.slideshare.net/baby-care/questions-to-ask-real-estate-agents-in-kidderminster
+Health Specialties Teachers, Postsecondary NOT FOUND
+76, English Language and Literature Teachers, Postsecondary, http://flickr.com/photos/codnewsroom/9515019093
+77, Teacher Assistants, https://en.wikipedia.org/wiki/Teaching_assistant
+78, Directors- Stage, Motion Pictures, Television, and Radio, http://wikivisually.com/wiki/The_Hudsucker_Proxy
+79, Information Security Analysts, http://www.resumes-cover-letters-jobs.com/top-paying-jobs-into-2022.html
+80, Electrical Engineers, https://en.wikipedia.org/wiki/Electrical_engineering
+81, First-Line Supervisors of Office and Administrative Support Workers, https://en.wikiquote.org/wiki/Organizational_chart
+82, Judicial Law Clerks, https://en.wikipedia.org/wiki/Law_clerk
+83, Computer Network Architects, https://serverfault.com/questions/827447/how-can-i-get-my-local-network-machines-to-call-local-web-server-by-url/827458
+84, Combined Food Preparation and Serving Workers, Including Fast Food, http://journalistsresource.org/studies/economics/workers/public-costs-low-wages-paid-fast-food-industry?utm_source=JR-email&utm_medium=email&utm_campaign=JR-email
+85, Loan Officers, https://www.flickr.com/photos/106574022@N04/11415401116/
+86, Auditors, https://en.wikipedia.org/wiki/European_Court_of_Auditors
+87, Accountants and Auditors, http://www.allreadable.com/vid/accountants-and-auditors-job-description-133483.html
+88, First-Line Supervisors of Retail Sales Workers, http://groundreport.com/is-majoring-in-liberal-arts-a-waste-of-money
+89, Art Directors, https://en.wikipedia.org/wiki/M._Prabhaharan
+90, Architectural Drafters, https://en.wikipedia.org/wiki/Drafter
+91, Reporters and Correspondents, https://commons.wikimedia.org/wiki/File:Assistant_Secretary_Russel_Addresses_Reporters_After_Meeting_With_South_Korean_Officials_in_Seoul.jpg
+92, Special Education Teachers, Preschool, https://es.wikipedia.org/wiki/Estimulaci%C3%B3n_temprana
+93, Child, Family, and School Social Workers, https://www.mynextmove.org/profile/summary/21-1021.00
+94, Database Architects, https://stackoverflow.com/questions/18094524/in-spring-mvc-where-to-catch-database-exceptions
+95, Technical Writers, http://en.wikiversity.org/wiki/technical_writing_specification
+96, Art, Drama, and Music Teachers, Postsecondary, https://en.wikipedia.org/wiki/Music_education
+97, Purchasing Managers, http://vimeo.com/114013156
+98, Editors, https://en.wikipedia.org/wiki/Editors_discography
+99, Logisticians, https://www.mynextmove.org/vets/profile/summary/13-1081.02?b=F
+100, Food Scientists and Technologists, https://en.wikipedia.org/wiki/Food_science
+101, Poets, Lyricists and Creative Writers, https://en.wikipedia.org/wiki/A._M._Turaz
+102, Insurance Sales Agents, https://www.mynextmove.org/profile/summary/41-3021.00?print=1
+103, Middle School Teachers, Except Special and Career/Technical Education, https://en.wikipedia.org/wiki/Outcome-based_education
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products NOT FOUND
+105, Clinical Research Coordinators, https://www.mynextmove.org/profile/summary/11-9121.01
+106, Climate Change Analysts, https://balneus.wordpress.com/2009/12/
+107, Residential Advisors, https://lehighvalleyramblings.blogspot.com/2015/08/ncc-dedicates-new-residence-hall.html
+108, Tutors, http://theconversation.com/hiring-a-tutor-may-have-short-term-gains-but-long-term-losses-35202
+109, Online Merchants, http://www.mynextmove.org/profile/summary/13-1199.06
+110, Training and Development Specialists, https://commons.wikimedia.org/wiki/File:Chaplains,_religious_program_specialists_train_to_help_sexual_assault_victims_140520-M-UT901-002.jpg
+Medical Scientists, Except Epidemiologists NOT FOUND
+112, Industrial-Organizational Psychologists, https://courses.lumenlearning.com/wsu-sandbox/chapter/what-is-industrial-and-organizational-psychology/
+113, Cashiers, https://en.wikipedia.org/wiki/Cashier
+114, Sales Representatives, Services, All Other, http://ducknetweb.blogspot.com/2010_07_18_archive.html
+115, Mechanical Engineers, https://en.wikipedia.org/wiki/Mechanical_engineering
+116, Interior Designers, https://en.wikipedia.org/wiki/Interior_design
+Proofreaders and Copy Markers NOT FOUND
+118, Recreation and Fitness Studies Teachers, Postsecondary, https://en.wikipedia.org/wiki/Atholville,_New_Brunswick
+119, Compliance Managers, https://en.wikipedia.org/wiki/Compliance_(film)
+120, Physical Therapists, https://www.mynextmove.org/profile/summary/29-1123.00
+121, Program Directors, https://en.wikipedia.org/wiki/Tony_Wood_(businessman)
+122, Insurance Underwriters, https://movies.stackexchange.com/questions/19216/how-could-harold-finch-keep-his-fortune-while-faking-his-own-death
+123, Counseling Psychologists, https://en.wikipedia.org/wiki/Lightner_Witmer
+124, Business Intelligence Analysts, http://sprmario.hatenablog.jp/entry/20110131/1296477408
+125, Operations Research Analysts, http://flickr.com/photos/rdecom/6326779464
+126, Vocational Education Teachers, Postsecondary, https://en.wikipedia.org/wiki/Education_in_Uganda
+127, Database Administrators, https://dba.stackexchange.com/questions/95048/mysql-5-0-certification-certs?noredirect=1
+128, Financial Analysts, https://www.mynextmove.org/profile/summary/13-2051.00
+129, Credit Analysts, http://www.ahorrocapital.com/2013/06/asesoramiento-financiero-gratuito-o-de.html
+130, Video Game Designers, https://www.mynextmove.org/profile/summary/15-1199.11
+131, Bioinformatics Scientists, http://cabbagesofdoom.blogspot.com/2015_08_01_archive.html
+132, Mechatronics Engineers, https://en.wikipedia.org/wiki/Mechatronics
+133, Instructional Designers and Technologists, http://www.jasonrhode.com/instructional-designers-roles
+134, Health Educators, https://www.flickr.com/photos/usdagov/16762770039
+Amusement and Recreation Attendants NOT FOUND
+136, Preschool Teachers, Except Special Education, https://en.wikipedia.org/wiki/Physical_education
+137, School Psychologists, http://www.psychology.illinois.edu/alumni/news/gallery/album/6036027485344071697
+138, Counter Attendants, Cafeteria, Food Concession, and Coffee Shop, http://groundreport.com/is-majoring-in-liberal-arts-a-waste-of-money
+Merchandise Displayers and Window Trimmers NOT FOUND
+140, Software Quality Assurance Engineers and Testers, http://stackoverflow.com/jobs/124280/software-quality-assurance-engineer-bestmile
+141, Fundraisers, https://flickr.com/photos/howardlake/14684030946
+142, Fire-Prevention and Protection Engineers, http://commons.wikimedia.org/wiki/File:Christian_Jacobs,_a_fire_inspector_with_the_633rd_Civil_Engineer_Squadron,_demonstrates_techniques_for_extinguishing_a_grease_fire_during_Fire_Prevention_Week_at_Joint_Base_Langley-Eustis,_Va_131011-F-IT851-014.jpg
+143, Instructional Coordinators, https://en.wikipedia.org/wiki/Calumpang_National_High_School
+144, File Clerks, https://commons.wikimedia.org/wiki/File:Tule_Lake_Relocation_Center,_Newell,_California._Filing_clerk,_Hana_Uyeno._-_NARA_-_536682.jpg
+145, Network and Computer Systems Administrators, https://en.wikipedia.org/wiki/System_administrator
+146, Fitness Trainers and Aerobics Instructors, https://www.mynextmove.org/profile/summary/39-9031.00
+147, Optometrists, https://en.wikipedia.org/wiki/Optometry
+148, Customer Service Representatives, http://dicasmundogospel.blogspot.com/2013/02/disque-vida.html
+149, Sales Agents, Financial Services, https://www.mynextmove.org/profile/summary/41-3031.02
+150, Photographers, https://en.wikipedia.org/wiki/Photographer
+151, Electronic Drafters, https://en.wikipedia.org/wiki/Drafter
+152, Broadcast Technicians, http://www.flickr.com/photos/myfuturedotcom/6052949061/
+153, Military Officer Special and Tactical Operations Leaders, All Other, https://en.wikipedia.org/wiki/Battle_Dress_Uniform
+154, Water Resource Specialists, https://www.flickr.com/photos/blmoregon/18684276826
+155, Agents and Business Managers of Artists, Performers, and Athletes, https://en.wikipedia.org/wiki/Sports_agent
+156, Natural Sciences Managers, http://www.leena-luna.co.jp/journals.php
+157, Commercial and Industrial Designers, http://www.the-vital-edge.com/service-tether/
+158, Athletes and Sports Competitors, https://flickr.com/photos/usnavy/15287396192
+159, Shipping, Receiving, and Traffic Clerks, https://jackbrummet.blogspot.com/2012_04_01_archive.html
+160, Special Education Teachers, Middle School, https://en.wikipedia.org/wiki/Teacher_in_role
+161, Secondary School Teachers, Except Special and Career/Technical Education, https://en.wikipedia.org/wiki/Outcome-based_education
+162, Secretaries and Administrative Assistants, Except Legal, Medical, and Executive, https://en.wikipedia.org/wiki/Roberta_S._Jacobson
+163, Healthcare Social Workers, https://www.mynextmove.org/profile/summary/21-1022.00
+164, Tour Guides and Escorts, https://www.flickr.com/photos/andrewcurrie/256363179/
+165, Computer Network Support Specialists, https://www.mynextmove.org/vets/profile/summary/15-1151.00?print=1
+Foreign Language and Literature Teachers, Postsecondary NOT FOUND
+167, Tax Examiners and Collectors, and Revenue Agents, https://epo.wikitrans.net/John_Entwistle
+168, Biochemical Engineers, https://en.wikipedia.org/wiki/Biochemical_engineering
+169, Office Clerks, General, https://en.wikipedia.org/wiki/Military_mail
+170, Industrial Engineers, https://commons.wikimedia.org/wiki/File:Industrial_Engineering_and_Management_at_Technion_by_David_Shankbone.jpg
+171, Rehabilitation Counselors, http://en.pschitt.info/page/Rehabilitation
+172, Supply Chain Managers, https://en.wikipedia.org/wiki/Military_supply_chain_management
+173, Aerospace Engineers, https://en.wikipedia.org/wiki/Pratt_%26_Whitney_F100#F100-PW-200
+174, Pediatricians, General, https://www.flickr.com/photos/armymedicine/4880181392/
+175, Demonstrators and Product Promoters, https://en.wikipedia.org/wiki/File:Fairbanks_Morse_4802_demonstrator.jpg
+176, Education Administrators, All Other, https://www.mynextmove.org/profile/summary/11-9031.00
+177, Automotive Engineers, https://en.wikipedia.org/wiki/Automotive_engineering
+178, Claims Examiners, Property and Casualty Insurance, https://www.mynextmove.org/profile/summary/13-1031.01?print=1
+179, Radio and Television Announcers, https://en.wikipedia.org/wiki/Bern_Bennett
+180, Self-Enrichment Education Teachers, http://learnteachlove.blogspot.com/2010/05/batam-brunei-and-beyond.html
+181, Home Health Aides, https://www.lawyersandsettlements.com/articles/overtime_california/overtime-pay-laws-unpaid-60-18974.html
+182, First-Line Supervisors of Production and Operating Workers, https://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary NOT FOUND
+184, Teachers and Instructors, All Other, https://www.mynextmove.org/profile/summary/39-9031.00
+185, Social Workers, All Other, http://readthedirt.org/politicizing-a-social-worker
+186, Librarians, https://it.wikipedia.org/wiki/Personaggi_di_The_Librarian
+187, Childcare Workers, http://theconversation.com/childcare-wage-reforms-stop-short-of-real-change-12956
+Door-To-Door Sales Workers, News and Street Vendors, and Related Workers NOT FOUND
+189, Occupational Therapists, https://en.wikipedia.org/wiki/Occupational_therapy
+190, Logistics Managers, https://www.mynextmove.org/vets/profile/summary/11-3071.03?b=C
+191, Industrial Production Managers, https://en.wikipedia.org/wiki/Interchangeable_parts
+192, Sales Engineers, http://flickr.com/photos/governordayton/6987349289
+193, Bartenders, https://en.wikipedia.org/wiki/Bartender
+194, Clinical Psychologists, https://en.wikipedia.org/wiki/Lightner_Witmer
+195, Family and General Practitioners, https://commons.wikimedia.org/wiki/File:Ackland_family,_general_practitioners,_Bideford,_Devon._Wellcome_L0028845.jpg
+196, Education Teachers, Postsecondary, https://en.wikipedia.org/wiki/Education_in_Uganda
+197, Logistics Engineers, https://flickr.com/photos/europedistrict/6020851427
+198, First-Line Supervisors of Correctional Officers, http://pochp.wordpress.com/2011/11/27/robots-as-prison-guards
+199, First-Line Supervisors of Construction Trades and Extraction Workers, http://www.mynextmove.org/profile/summary/47-1011.00
+200, Chefs and Head Cooks, https://www.mynextmove.org/profile/summary/35-1011.00
+201, Food Service Managers, https://commons.wikimedia.org/wiki/File:US_Navy_070426-N-2143T-001_Culinary_Specialist_Senior_Chief_Michael_Deascentiis_of_Puget_Sound_Navy_food_management_team-teaches_various_ways_to_garnish_fruit_and_vegetables_to_the_food_service_team_at_the_Trident_Inn_galley_du.jpg
+202, Cooks, Fast Food, https://en.wikipedia.org/wiki/Food_truck
+203, Desktop Publishers, https://de.wikipedia.org/wiki/Scribus
+204, Audio and Video Equipment Technicians, https://www.flickr.com/photos/myfuturedotcom/6052488441/
+205, Civil Engineering Technicians, https://en.wikipedia.org/wiki/Engineering_technologist
+206, Energy Brokers, https://flickr.com/photos/lazylikewally/4484632477
+207, Municipal Firefighters, https://www.flickr.com/photos/seattlemunicipalarchives/4170044232/in/set-72157606240490571/
+Purchasing Agents, Except Wholesale, Retail, and Farm Products NOT FOUND
+209, Mechanical Engineering Technologists, https://en.wikipedia.org/wiki/Engineering_technologist
+210, Pharmacy Technicians, https://en.wikipedia.org/wiki/Pharmacist
+211, Compensation, Benefits, and Job Analysis Specialists, https://en.m.wikipedia.org/wiki/Longnecker_and_Associates
+212, Hotel, Motel, and Resort Desk Clerks, https://en.wikipedia.org/wiki/Receptionist
+213, Communications Teachers, Postsecondary, http://theconversation.com/teaching-artists-creative-ways-to-teach-english-to-immigrant-kids-42588
+214, Archeologists, https://www.cam.ac.uk/research/news/meet-the-archaeologists-making-ancient-rock-art-into-3d-reality
+215, Engineering Teachers, Postsecondary, https://etug.ca/2011/05/29/developing-vision-for-teaching-with-technology/
+216, Mechanical Drafters, https://en.wikipedia.org/wiki/Drafter
+217, Real Estate Sales Agents, http://patheticoomph9794.wikidot.com/
+218, Political Scientists, https://www.wikidata.org/wiki/Q614431
+219, Waiters and Waitresses, https://en.wiktionary.org/wiki/waiter
+220, Electro-Mechanical Technicians, https://en.wikipedia.org/wiki/Engineering_technician
+221, Parts Salespersons, https://boagworld.com/digital-strategy/work-environment/
+222, Psychology Teachers, Postsecondary, http://flickr.com/photos/codnewsroom/9515019093
+223, Geospatial Information Scientists and Technologists, http://www.jisc.ac.uk/blog/how-to-make-technology-a-successful-partner-in-teaching-22-aug-2014
+224, Command and Control Center Officers, https://en.wikipedia.org/wiki/Tactical_operations_center
+225, Medical Records and Health Information Technicians, http://www.mynextmove.org/profile/summary/29-2071.00
+226, Special Education Teachers, Secondary School, https://en.wikipedia.org/wiki/Secondary_education_in_the_United_States
+227, Transportation Managers, https://en.wikipedia.org/wiki/Transportation_demand_management
+228, Wholesale and Retail Buyers, Except Farm Products, http://www.mynextmove.org/profile/summary/13-1022.00
+229, Financial Quantitative Analysts, https://en.wikipedia.org/wiki/Quantitative_analyst
+230, Nurse Practitioners, http://commons.wikimedia.org/wiki/File:US_Navy_110307-N-OV243-081_Nurse_practitioner_Tiffany_Holm_performs_a_routine_physical_on_Willie_Benjamin_at_the_Tricare_Outpatient_Clinic-Clairemo.jpg
+231, First-Line Supervisors of Food Preparation and Serving Workers, https://en.wikipedia.org/wiki/Food_processing
+Political Science Teachers, Postsecondary NOT FOUND
+233, Film and Video Editors, https://en.wikipedia.org/wiki/Film_editing
+234, Writers and Authors, https://en.wikipedia.org/wiki/English_literature
+235, Nursing Instructors and Teachers, Postsecondary, https://en.wikipedia.org/wiki/Concordia_College,_Bronxville
+236, Industrial Engineering Technologists, https://en.wikipedia.org/wiki/Engineering_technologist
+237, Production Workers, All Other, https://en.wikipedia.org/wiki/Interchangeable_parts
+238, Fine Artists, Including Painters, Sculptors, and Illustrators, https://en.wikipedia.org/wiki/Ashcan_School
+239, Urban and Regional Planners, https://en.wikipedia.org/wiki/Transportation_planning
+240, Receptionists and Information Clerks, https://en.wikipedia.org/wiki/Receptionist
+241, Chiropractors, https://en.wikipedia.org/wiki/Upper_Cervical_Specific_Chiropractic
+242, New Accounts Clerks, https://www.flickr.com/photos/jamescheuk/5664007719/
+243, Heavy and Tractor-Trailer Truck Drivers, https://en.wikipedia.org/wiki/Towing
+244, Bookkeeping, Accounting, and Auditing Clerks, https://northgatech.edu/students/programs-of-study/accounting
+245, Lodging Managers, https://www.flickr.com/photos/hashoofoundation/8230136061
+246, Clergy, https://commons.wikimedia.org/wiki/File:Polish_clergy_1588-1632.PNG
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders NOT FOUND
+248, Security Management Specialists, https://www.mynextmove.org/vets/profile/summary/11-9199.07?b=F
+249, Clinical Data Managers, http://vimeo.com/54611478
+250, Counselors, All Other, http://www.choosehelp.com/topics/adult-add-adhd/think-you-have-adult-add-adhd-here2019s-why-you-need-a-professional-diagnosis-2013-15-other-conditions-that-can-cause-add-adhd-symptoms
+251, Municipal Fire Fighting and Prevention Supervisors, https://en.wikipedia.org/wiki/Bear_Creek_Township,_PA
+252, Medical Assistants, https://www.mynextmove.org/profile/summary/31-9092.00
+253, Chemists, https://en.wikipedia.org/wiki/Pharmacist
+254, Sales Agents, Securities and Commodities, https://www.mynextmove.org/profile/summary/41-3031.02
+255, Actors, http://www.zirev.com/2014/11/10-young-australian-actors-rising-in.html
+256, Insurance Adjusters, Examiners, and Investigators, https://www.mynextmove.org/profile/summary/13-1031.01?print=1
+257, Athletic Trainers, https://en.wikipedia.org/wiki/Athletic_trainer
+258, Environmental Compliance Inspectors, https://elgar.blog/2015/06/11/american-environmental-policy-the-good-enoughism-that-characterizes-the-last-50-years-should-be-replaced-with-policies-that-truly-work-an-interview-with-daniel-press/
+259, Psychiatric Technicians, https://www.solvibrations.org/why-is-phlebotomy-important-in-medicine/
+260, Industrial Safety and Health Engineers, https://www.mynextmove.org/profile/summary/17-2111.01
+261, Personal Care Aides, https://www.lawyersandsettlements.com/lawsuit/caregiver_overtime.html
+262, Economists, https://tl.wikipedia.org/wiki/John_Maynard_Keynes
+263, Document Management Specialists, http://icloud9-cloudcomp.blogspot.com/2010/08/how-cloud-computing-works.html
+264, Geographic Information Systems Technicians, http://gis.stackexchange.com/questions/21459/how-do-you-explain-what-gis-is
+265, Dietitians and Nutritionists, https://www.flickr.com/photos/usdagov/8423829659
+266, Compensation and Benefits Managers, https://en.wikipedia.org/wiki/Job_description_management
+267, First-Line Supervisors of Police and Detectives, https://en.bywiki.com/wiki/Mac_Taylor
+268, Cytotechnologists, http://www.serena.unina.it/index.php/jop/article/view/1277
+269, Risk Management Specialists, http://www.scielo.org.co/scielo.php?pid=S1794-61902011000200008&script=sci_arttext
+270, Library Assistants, Clerical, http://datablog.is.ed.ac.uk/category/data-support/
+271, Remote Sensing Technicians, http://en.farsnews.com/newstext.aspx?nn=13940616000820
+272, Orderlies, http://theconversation.com/dont-forget-the-hospital-orderlies-of-world-war-i-on-or-off-the-screen-26669
+273, Interpreters and Translators, http://en.wikipedia.org/wiki/search?search=video+remote+interpreting
+274, Library Science Teachers, Postsecondary, https://en.wikipedia.org/wiki/University_of_Ontario_Institute_of_Technology
+275, Informatics Nurse Specialists, https://www.mynextmove.org/profile/summary/15-1121.01
+276, Dentists, General, https://www.mynextmove.org/profile/summary/29-1021.00
+277, Tellers, https://en.wikipedia.org/wiki/Bank_teller
+278, Anesthesiologists, http://commons.wikimedia.org/wiki/File:Anesthesiologist.jpg
+279, Computer Science Teachers, Postsecondary, https://teachonline.ca/pockets-innovation/project-management-brock-university
+280, Transportation Engineers, https://en.wikipedia.org/wiki/Transportation_engineering
+281, Career/Technical Education Teachers, Middle School, https://en.wikipedia.org/wiki/Alfred_E._Smith_Career_and_Technical_Education_High_School
+Inspectors, Testers, Sorters, Samplers, and Weighers NOT FOUND
+283, Nanotechnology Engineering Technologists, https://en.wikipedia.org/wiki/Marcus_Nanotechnology_Building
+284, Security Managers, https://www.mynextmove.org/vets/profile/summary/11-9199.07?b=F
+285, Credit Counselors, https://www.flickr.com/photos/86530412@N02/8224529071/
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers NOT FOUND
+287, Community Health Workers, https://en.wikipedia.org/wiki/File:Future_families_-_Hope,_a_Community_Health_Worker_(7497778302).jpg
+288, Funeral Service Managers, https://www.mynextmove.org/profile/summary/39-4031.00
+289, Recycling and Reclamation Workers, http://commons.wikimedia.org/wiki/file:metal_rebar_reclamation_for_recycling_at_building_demolition_site_-_04.jpg
+290, Mental Health Counselors, http://scherlund.blogspot.kr/2016/11/ung-faculty-present-research-at.html
+291, Loss Prevention Managers, https://www.mynextmove.org/profile/summary/11-9199.08
+292, Buyers and Purchasing Agents, Farm Products, https://www.mynextmove.org/profile/summary/13-1021.00?print=1
+293, Green Marketers, https://en.wikipedia.org/wiki/Edmonton_Green_Shopping_Centre
+294, Audio-Visual and Multimedia Collections Specialists, https://lovealibrarian.blogspot.com/2016/12/school-library-coll-dev-maps-and-posters.html
+295, Environmental Engineers, https://en.wikipedia.org/wiki/Civil_engineer
+296, Brokerage Clerks, https://pt.wikipedia.org/wiki/The_Stock-broker%27s_Clerk
+297, Labor Relations Specialists, https://www.mynextmove.org/vets/profile/summary/13-1075.00?b=A
+298, Craft Artists, https://en.wikipedia.org/wiki/Street_artist
+299, Payroll and Timekeeping Clerks, http://eltorobumingo.blogspot.com/2012/07/my-latest-gadget-yongnuo-speedlite.html
+300, Radar and Sonar Technicians, http://commons.wikimedia.org/wiki/File:US_Navy_030603-N-4936C-075_Information_Technician_2nd_Class_Darrell_Adams_fixes_an_antenna_on_top_of_the_Radar_Sonar_Surveillance_Center_in_Guantanamo_Bay.jpg
+301, Storage and Distribution Managers, https://en.wikipedia.org/wiki/Distribution_center
+302, Petroleum Engineers, https://en.wikipedia.org/wiki/Offshore_geotechnical_engineering
+303, Mental Health and Substance Abuse Social Workers, https://www.mynextmove.org/profile/summary/21-1023.00
+304, Career/Technical Education Teachers, Secondary School, https://en.wikipedia.org/wiki/Alfred_E._Smith_Career_and_Technical_Education_High_School
+305, Industrial Engineering Technicians, https://en.wikipedia.org/wiki/Engineering_technician
+306, Cost Estimators, https://omrslm.blogspot.com/2014/05/software-quantity-takeoff-and.html
+307, Camera Operators, Television, Video, and Motion Picture, https://www.mynextmove.org/profile/summary/27-4031.00?print=1
+308, Biological Science Teachers, Postsecondary, https://en.wikipedia.org/wiki/Environmental_education
+309, Transportation, Storage, and Distribution Managers, http://www.labelingnews.com/2017/04/labeling-and-coding-for-logistics/
+310, Occupational Health and Safety Specialists, http://occhealthsafety.wikidot.com/blog:_start/date/2016.9
+311, Quality Control Systems Managers, https://www.mynextmove.org/profile/summary/11-3051.01
+312, Web Administrators, http://blog.pwn.cl/2009/11/technical-review-nas-usb-wlx-652/?nggpage=2
+313, Food Science Technicians, https://en.wikipedia.org/wiki/Riin_Tamm
+314, Fashion Designers, https://en.wikipedia.org/wiki/Fashion_design
+Ushers, Lobby Attendants, and Ticket Takers NOT FOUND
+316, Geoscientists, Except Hydrologists and Geographers, https://open.ed.ac.uk/edinburghs-oers/?filter=college-of-science-and-engineering
+317, Billing, Cost, and Rate Clerks, http://commons.wikimedia.org/wiki/category:accounting
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary NOT FOUND
+319, Producers and Directors, https://en.wikipedia.org/wiki/Robert_Lang,_(Executive_Producer_and_Director)
+320, Fitness and Wellness Coordinators, http://www.mynextmove.org/profile/summary/11-9039.02
+321, Water/Wastewater Engineers, https://www.mynextmove.org/profile/summary/51-8031.00
+322, Regulatory Affairs Managers, https://www.mynextmove.org/profile/summary/11-9199.01
+323, Telemarketers, https://en.wikipedia.org/wiki/Telemarketers
+324, Electronics Engineers, Except Computer, https://electronics.stackexchange.com/questions/210027/convert-ttl-levels-to-rs232-of-ftdi-usb-serial/210028
+325, Social Work Teachers, Postsecondary, http://udloncampus.cast.org/page/teach_social
+326, Social Sciences Teachers, Postsecondary, All Other, https://www.mynextmove.org/profile/summary/25-2031.00
+327, Copy Writers, http://cosedalibri.blogspot.com/2011/08/pubblicita-progressoquando-i-copywriter.html
+Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other NOT FOUND
+329, Atmospheric and Space Scientists, https://en.wikipedia.org/wiki/File:Atmosphere_layers-en.svg
+330, Musicians and Singers, https://en.wikipedia.org/wiki/Anastacia
+331, Chemical Engineers, https://en.wikipedia.org/wiki/Chemical_engineering
+332, Distance Learning Coordinators, https://www.mynextmove.org/vets/profile/summary/11-9039.01
+333, Historians, http://vridar.org/2014/02/16/how-ancient-historians-worked-summary/
+334, Substance Abuse and Behavioral Disorder Counselors, http://dbtlondon.com/allceus-counseling-education/tip-42-part-2-for-lpc-lmhcand-addiction-counselor-ceus-training-in-counseling/
+335, Human Factors Engineers and Ergonomists, https://en.wikipedia.org/wiki/Human_Factors_in_Engineering_and_Design
+336, Bill and Account Collectors, https://en.wikipedia.org/wiki/Dollar_coin_(United_States)
+337, Graphic Designers, https://graphicdesign.stackexchange.com/questions/28399/is-there-a-software-able-to-automatically-produce-professional-looking-images
+338, Orthoptists, https://en.wikipedia.org/wiki/Humphrey_Visual_Field_Analyser
+339, Quality Control Analysts, https://slidehunter.com/powerpoint-templates/destep-analysis-diagram-template-powerpoint/
+340, Agricultural Technicians, http://www.flickr.com/photos/usdagov/8580125410/
+341, Office and Administrative Support Workers, All Other, https://en.wikipedia.org/wiki/Office
+342, Marriage and Family Therapists, https://www.mynextmove.org/profile/summary/21-1013.00?print=1
+343, Library Technicians, https://de.wikipedia.org/wiki/Datei:US_Navy_070703-N-4386D-003_T%5Ersquo,onna_Peters,_resource_center_library_technician_on_board_Naval_Base_Kitsap-Bangor,_spends_time_reading_a_book_to_children.jpg
+344, Landscape Architects, https://commons.wikimedia.org/wiki/File:Landscape_architecture,_Bercy.jpg
+345, Budget Analysts, https://www.flickr.com/photos/usfwshq/10706890303/
+Production, Planning, and Expediting Clerks NOT FOUND
+347, Human Resources Assistants, Except Payroll and Timekeeping, http://spring96.org/en/news/83398
+348, Speech-Language Pathology Assistants, https://www.codlrc.org/hs/slp
+349, Critical Care Nurses, https://en.wikipedia.org/wiki/Critical_care_nursing
+350, Recreational Therapists, http://www.mynextmove.org/profile/summary/29-1125.00
+351, Nursing Assistants, https://localwiki.org/bloomington-normal/Heartland%27s_CNA_Program
+352, Stock Clerks, Sales Floor, http://www.mynextmove.org/profile/summary/43-5081.01
+353, Law Teachers, Postsecondary, http://flickr.com/photos/codnewsroom/9515019093
+354, Agricultural Engineers, http://www.ijaast.com/board.html
+355, Financial Managers, https://www.mynextmove.org/profile/summary/11-3031.02
+356, Medical and Clinical Laboratory Technologists, https://www.mynextmove.org/profile/summary/29-2011.00
+357, Physical Therapist Assistants, http://commons.wikimedia.org/wiki/File:Physical_Therapists_at_work.jpg
+358, Emergency Medical Technicians and Paramedics, http://www.wikidoc.org/index.php/Emergency_medical_technician
+359, Postsecondary Teachers, All Other, https://en.wikipedia.org/wiki/Music_education
+360, Chemical Technicians, https://www.flickr.com/photos/saginawfuture/4322861517
+361, Transportation Planners, https://en.wikipedia.org/wiki/Transportation_planning
+362, Business Continuity Planners, https://selfgrasp.com/business/what-is-a-business-continuity-plan-and-why-every-business-needs-one/
+Administrative Law Judges, Adjudicators, and Hearing Officers NOT FOUND
+364, Electrical Drafters, https://en.wikipedia.org/wiki/Switchgear
+365, Patient Representatives, http://theconversation.com/high-cost-of-gp-rebate-freeze-may-see-co-payments-rise-from-the-dead-38786
+366, Curators, https://en.wikipedia.org/wiki/Curator
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners NOT FOUND
+368, Biological Technicians, https://www.mynextmove.org/profile/summary/19-4021.00?print=1
+369, Farm and Home Management Advisors, http://www.farmerstrend.co.ke/importance-farm-records-agricultural-production/
+370, Arbitrators, Mediators, and Conciliators, https://www.mynextmove.org/profile/summary/23-1022.00?print=1
+371, Advanced Practice Psychiatric Nurses, https://www.apna.org/m/pages.cfm?pageid=3292
+372, Chemistry Teachers, Postsecondary, https://en.wikipedia.org/wiki/Environmental_education
+373, Loan Counselors, https://www.flickr.com/photos/repgeorgemiller/2604355741
+374, Umpires, Referees, and Other Sports Officials, http://www.mynextmove.org/profile/summary/27-2023.00
+375, Legal Secretaries, http://mid.gospmr.org/en/FDK
+376, Biofuels Production Managers, http://news.mongabay.com/bioenergy/2007/12/us-becomes-biofuel-nation-as-congress.html
+377, Airline Pilots, Copilots, and Flight Engineers, http://www.flickr.com/photos/wbaiv/4389611439/
+378, Landscaping and Groundskeeping Workers, http://www.flickr.com/photos/goodlifegarden/9621234343/

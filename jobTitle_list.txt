@@ -1,0 +1,1073 @@
+1	Chief Executives
+2	Advertising and Promotions Managers
+3	Computer and Information Systems Managers
+4	Lawyers
+5	General and Operations Managers
+6	Marketing Managers
+7	Sales Managers
+8	Education Administrators, Postsecondary
+9	Prosthodontists
+10	Graduate Teaching Assistants
+11	Physicians and Surgeons, All Other
+12	Construction Managers
+13	Social Science Research Assistants
+14	Education Administrators, Elementary and Secondary School
+15	Market Research Analysts and Marketing Specialists
+16	Management Analysts
+17	Architectural and Engineering Managers
+18	Computer and Information Research Scientists
+19	Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+20	Accountants
+21	Public Relations and Fundraising Managers
+22	Information Technology Project Managers
+23	Producers
+24	Registered Nurses
+25	Human Resources Specialists
+26	Sociology Teachers, Postsecondary
+27	Engineering Technicians, Except Drafters, All Other
+28	Solar Sales Representatives and Assessors
+29	Web Developers
+30	Managers, All Other
+31	First-Line Supervisors of Non-Retail Sales Workers
+32	Medical and Health Services Managers
+33	Human Resources Managers
+34	Multimedia Artists and Animators
+35	Business Teachers, Postsecondary
+36	Baristas
+37	Pharmacists
+38	Personal Financial Advisors
+39	Financial Managers, Branch or Department
+40	Education Administrators, Preschool and Childcare Center/Program
+41	Architects, Except Landscape and Naval
+42	Legislators
+43	Executive Secretaries and Executive Administrative Assistants
+44	Property, Real Estate, and Community Association Managers
+45	Educational, Guidance, School, and Vocational Counselors
+46	Investment Fund Managers
+47	City and Regional Planning Aides
+48	Treasurers and Controllers
+49	Meeting, Convention, and Event Planners
+50	Paralegals and Legal Assistants
+51	Coaches and Scouts
+52	Foundry Mold and Coremakers
+53	Biofuels/Biodiesel Technology and Product Development Managers
+54	Software Developers, Systems Software
+55	Retail Salespersons
+56	Public Relations Specialists
+57	Computer Programmers
+58	Computer User Support Specialists
+59	Astronomers
+60	Social and Community Service Managers
+61	Telecommunications Engineering Specialists
+62	Civil Engineers
+63	Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic
+64	Software Developers, Applications
+65	Training and Development Managers
+66	Elementary School Teachers, Except Special Education
+67	Social and Human Service Assistants
+68	Computer Systems Analysts
+69	Advertising Sales Agents
+70	Administrative Services Managers
+71	Business Operations Specialists, All Other
+72	Recreation Workers
+73	Search Marketing Strategists
+74	Mathematical Science Teachers, Postsecondary
+75	Real Estate Brokers
+76	Health Specialties Teachers, Postsecondary
+77	English Language and Literature Teachers, Postsecondary
+78	Teacher Assistants
+79	Directors- Stage, Motion Pictures, Television, and Radio
+80	Information Security Analysts
+81	Electrical Engineers
+82	First-Line Supervisors of Office and Administrative Support Workers
+83	Judicial Law Clerks
+84	Computer Network Architects
+85	Combined Food Preparation and Serving Workers, Including Fast Food
+86	Loan Officers
+87	Auditors
+88	Accountants and Auditors
+89	First-Line Supervisors of Retail Sales Workers
+90	Art Directors
+91	Architectural Drafters
+92	Reporters and Correspondents
+93	Special Education Teachers, Preschool
+94	Child, Family, and School Social Workers
+95	Database Architects
+96	Technical Writers
+97	Art, Drama, and Music Teachers, Postsecondary
+98	Purchasing Managers
+99	Editors
+100	Logisticians
+101	Food Scientists and Technologists
+102	Poets, Lyricists and Creative Writers
+103	Insurance Sales Agents
+104	Middle School Teachers, Except Special and Career/Technical Education
+105	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+106	Clinical Research Coordinators
+107	Climate Change Analysts
+108	Residential Advisors
+109	Tutors
+110	Online Merchants
+111	Training and Development Specialists
+112	Medical Scientists, Except Epidemiologists
+113	Industrial-Organizational Psychologists
+114	Cashiers
+115	Sales Representatives, Services, All Other
+116	Mechanical Engineers
+117	Interior Designers
+118	Proofreaders and Copy Markers
+119	Recreation and Fitness Studies Teachers, Postsecondary
+120	Compliance Managers
+121	Physical Therapists
+122	Program Directors
+123	Insurance Underwriters
+124	Counseling Psychologists
+125	Business Intelligence Analysts
+126	Operations Research Analysts
+127	Vocational Education Teachers, Postsecondary
+128	Database Administrators
+129	Financial Analysts
+130	Credit Analysts
+131	Video Game Designers
+132	Bioinformatics Scientists
+133	Mechatronics Engineers
+134	Instructional Designers and Technologists
+135	Health Educators
+136	Amusement and Recreation Attendants
+137	Preschool Teachers, Except Special Education
+138	School Psychologists
+139	Counter Attendants, Cafeteria, Food Concession, and Coffee Shop
+140	Merchandise Displayers and Window Trimmers
+141	Software Quality Assurance Engineers and Testers
+142	Fundraisers
+143	Fire-Prevention and Protection Engineers
+144	Instructional Coordinators
+145	File Clerks
+146	Network and Computer Systems Administrators
+147	Fitness Trainers and Aerobics Instructors
+148	Optometrists
+149	Customer Service Representatives
+150	Sales Agents, Financial Services
+151	Photographers
+152	Electronic Drafters
+153	Broadcast Technicians
+154	Military Officer Special and Tactical Operations Leaders, All Other
+155	Water Resource Specialists
+156	Agents and Business Managers of Artists, Performers, and Athletes
+157	Natural Sciences Managers
+158	Commercial and Industrial Designers
+159	Athletes and Sports Competitors
+160	Shipping, Receiving, and Traffic Clerks
+161	Special Education Teachers, Middle School
+162	Secondary School Teachers, Except Special and Career/Technical Education
+163	Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+164	Healthcare Social Workers
+165	Tour Guides and Escorts
+166	Computer Network Support Specialists
+167	Foreign Language and Literature Teachers, Postsecondary
+168	Tax Examiners and Collectors, and Revenue Agents
+169	Biochemical Engineers
+170	Office Clerks, General
+171	Industrial Engineers
+172	Rehabilitation Counselors
+173	Supply Chain Managers
+174	Aerospace Engineers
+175	Pediatricians, General
+176	Demonstrators and Product Promoters
+177	Education Administrators, All Other
+178	Automotive Engineers
+179	Claims Examiners, Property and Casualty Insurance
+180	Radio and Television Announcers
+181	Self-Enrichment Education Teachers
+182	Home Health Aides
+183	First-Line Supervisors of Production and Operating Workers
+184	Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+185	Teachers and Instructors, All Other
+186	Social Workers, All Other
+187	Librarians
+188	Childcare Workers
+189	Door-To-Door Sales Workers, News and Street Vendors, and Related Workers
+190	Occupational Therapists
+191	Logistics Managers
+192	Industrial Production Managers
+193	Sales Engineers
+194	Bartenders
+195	Clinical Psychologists
+196	Family and General Practitioners
+197	Education Teachers, Postsecondary
+198	Logistics Engineers
+199	First-Line Supervisors of Correctional Officers
+200	First-Line Supervisors of Construction Trades and Extraction Workers
+201	Chefs and Head Cooks
+202	Food Service Managers
+203	Cooks, Fast Food
+204	Desktop Publishers
+205	Audio and Video Equipment Technicians
+206	Civil Engineering Technicians
+207	Energy Brokers
+208	Municipal Firefighters
+209	Purchasing Agents, Except Wholesale, Retail, and Farm Products
+210	Mechanical Engineering Technologists
+211	Pharmacy Technicians
+212	Compensation, Benefits, and Job Analysis Specialists
+213	Hotel, Motel, and Resort Desk Clerks
+214	Communications Teachers, Postsecondary
+215	Archeologists
+216	Engineering Teachers, Postsecondary
+217	Mechanical Drafters
+218	Real Estate Sales Agents
+219	Political Scientists
+220	Waiters and Waitresses
+221	Electro-Mechanical Technicians
+222	Parts Salespersons
+223	Psychology Teachers, Postsecondary
+224	Geospatial Information Scientists and Technologists
+225	Command and Control Center Officers
+226	Medical Records and Health Information Technicians
+227	Special Education Teachers, Secondary School
+228	Transportation Managers
+229	Wholesale and Retail Buyers, Except Farm Products
+230	Financial Quantitative Analysts
+231	Nurse Practitioners
+232	First-Line Supervisors of Food Preparation and Serving Workers
+233	Political Science Teachers, Postsecondary
+234	Film and Video Editors
+235	Writers and Authors
+236	Nursing Instructors and Teachers, Postsecondary
+237	Industrial Engineering Technologists
+238	Production Workers, All Other
+239	Fine Artists, Including Painters, Sculptors, and Illustrators
+240	Urban and Regional Planners
+241	Receptionists and Information Clerks
+242	Chiropractors
+243	New Accounts Clerks
+244	Heavy and Tractor-Trailer Truck Drivers
+245	Bookkeeping, Accounting, and Auditing Clerks
+246	Lodging Managers
+247	Clergy
+248	Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+249	Security Management Specialists
+250	Clinical Data Managers
+251	Counselors, All Other
+252	Municipal Fire Fighting and Prevention Supervisors
+253	Medical Assistants
+254	Chemists
+255	Sales Agents, Securities and Commodities
+256	Actors
+257	Insurance Adjusters, Examiners, and Investigators
+258	Athletic Trainers
+259	Environmental Compliance Inspectors
+260	Psychiatric Technicians
+261	Industrial Safety and Health Engineers
+262	Personal Care Aides
+263	Economists
+264	Document Management Specialists
+265	Geographic Information Systems Technicians
+266	Dietitians and Nutritionists
+267	Compensation and Benefits Managers
+268	First-Line Supervisors of Police and Detectives
+269	Cytotechnologists
+270	Risk Management Specialists
+271	Library Assistants, Clerical
+272	Remote Sensing Technicians
+273	Orderlies
+274	Interpreters and Translators
+275	Library Science Teachers, Postsecondary
+276	Informatics Nurse Specialists
+277	Dentists, General
+278	Tellers
+279	Anesthesiologists
+280	Computer Science Teachers, Postsecondary
+281	Transportation Engineers
+282	Career/Technical Education Teachers, Middle School
+283	Inspectors, Testers, Sorters, Samplers, and Weighers
+284	Nanotechnology Engineering Technologists
+285	Security Managers
+286	Credit Counselors
+287	Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+288	Community Health Workers
+289	Funeral Service Managers
+290	Recycling and Reclamation Workers
+291	Mental Health Counselors
+292	Loss Prevention Managers
+293	Buyers and Purchasing Agents, Farm Products
+294	Green Marketers
+295	Audio-Visual and Multimedia Collections Specialists
+296	Environmental Engineers
+297	Brokerage Clerks
+298	Labor Relations Specialists
+299	Craft Artists
+300	Payroll and Timekeeping Clerks
+301	Radar and Sonar Technicians
+302	Storage and Distribution Managers
+303	Petroleum Engineers
+304	Mental Health and Substance Abuse Social Workers
+305	Career/Technical Education Teachers, Secondary School
+306	Industrial Engineering Technicians
+307	Cost Estimators
+308	Camera Operators, Television, Video, and Motion Picture
+309	Biological Science Teachers, Postsecondary
+310	Transportation, Storage, and Distribution Managers
+311	Occupational Health and Safety Specialists
+312	Quality Control Systems Managers
+313	Web Administrators
+314	Food Science Technicians
+315	Fashion Designers
+316	Ushers, Lobby Attendants, and Ticket Takers
+317	Geoscientists, Except Hydrologists and Geographers
+318	Billing, Cost, and Rate Clerks
+319	Area, Ethnic, and Cultural Studies Teachers, Postsecondary
+320	Producers and Directors
+321	Fitness and Wellness Coordinators
+322	Water/Wastewater Engineers
+323	Regulatory Affairs Managers
+324	Telemarketers
+325	Electronics Engineers, Except Computer
+326	Social Work Teachers, Postsecondary
+327	Social Sciences Teachers, Postsecondary, All Other
+328	Copy Writers
+329	Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other
+330	Atmospheric and Space Scientists
+331	Musicians and Singers
+332	Chemical Engineers
+333	Distance Learning Coordinators
+334	Historians
+335	Substance Abuse and Behavioral Disorder Counselors
+336	Human Factors Engineers and Ergonomists
+337	Bill and Account Collectors
+338	Graphic Designers
+339	Orthoptists
+340	Quality Control Analysts
+341	Agricultural Technicians
+342	Office and Administrative Support Workers, All Other
+343	Marriage and Family Therapists
+344	Library Technicians
+345	Landscape Architects
+346	Budget Analysts
+347	Production, Planning, and Expediting Clerks
+348	Human Resources Assistants, Except Payroll and Timekeeping
+349	Speech-Language Pathology Assistants
+350	Critical Care Nurses
+351	Recreational Therapists
+352	Nursing Assistants
+353	Stock Clerks, Sales Floor
+354	Law Teachers, Postsecondary
+355	Agricultural Engineers
+356	Financial Managers
+357	Medical and Clinical Laboratory Technologists
+358	Physical Therapist Assistants
+359	Emergency Medical Technicians and Paramedics
+360	Postsecondary Teachers, All Other
+361	Chemical Technicians
+362	Transportation Planners
+363	Business Continuity Planners
+364	Administrative Law Judges, Adjudicators, and Hearing Officers
+365	Electrical Drafters
+366	Patient Representatives
+367	Curators
+368	Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+369	Biological Technicians
+370	Farm and Home Management Advisors
+371	Arbitrators, Mediators, and Conciliators
+372	Advanced Practice Psychiatric Nurses
+373	Chemistry Teachers, Postsecondary
+374	Loan Counselors
+375	Umpires, Referees, and Other Sports Officials
+376	Legal Secretaries
+377	Biofuels Production Managers
+378	Airline Pilots, Copilots, and Flight Engineers
+379	Landscaping and Groundskeeping Workers
+380	Statisticians
+381	Laborers and Freight, Stock, and Material Movers, Hand
+382	Broadcast News Analysts
+383	Insurance Policy Processing Clerks
+384	First-Line Supervisors of Housekeeping and Janitorial Workers
+385	Biomass Power Plant Managers
+386	Sustainability Specialists
+387	Food Preparation Workers
+388	Photographic Process Workers and Processing Machine Operators
+389	Skincare Specialists
+390	Biomedical Engineers
+391	Data Entry Keyers
+392	First-Line Supervisors of Mechanics, Installers, and Repairers
+393	Genetic Counselors
+394	Directors, Religious Activities and Education
+395	Adapted Physical Education Specialists
+396	Mechanical Engineering Technicians
+397	Sports Medicine Physicians
+398	Legal Support Workers, All Other
+399	Eligibility Interviewers, Government Programs
+400	Architecture Teachers, Postsecondary
+401	Command and Control Center Specialists
+402	Materials Scientists
+403	Financial Examiners
+404	Aerospace Engineering and Operations Technicians
+405	Chief Sustainability Officers
+406	Logistics Analysts
+407	Kindergarten Teachers, Except Special Education
+408	Solar Energy Systems Engineers
+409	Stock Clerks- Stockroom, Warehouse, or Storage Yard
+410	Agricultural Sciences Teachers, Postsecondary
+411	Regulatory Affairs Specialists
+412	Biostatisticians
+413	Orthodontists
+414	History Teachers, Postsecondary
+415	Nursery and Greenhouse Managers
+416	Emergency Management Directors
+417	Opticians, Dispensing
+418	Investment Underwriters
+419	Tax Preparers
+420	Models
+421	Physicists
+422	Court Clerks
+423	Oral and Maxillofacial Surgeons
+424	Product Safety Engineers
+425	Economics Teachers, Postsecondary
+426	Medical and Clinical Laboratory Technicians
+427	Concierges
+428	First-Line Supervisors of Personal Service Workers
+429	Anthropologists
+430	Cargo and Freight Agents
+431	Validation Engineers
+432	Statistical Assistants
+433	Wind Energy Project Managers
+434	Electronics Engineering Technicians
+435	Internists, General
+436	Energy Engineers
+437	Microsystems Engineers
+438	Respiratory Therapists
+439	Manufacturing Engineers
+440	Medical Secretaries
+441	Biochemists and Biophysicists
+442	Counter and Rental Clerks
+443	Speech-Language Pathologists
+444	Surgical Assistants
+445	Talent Directors
+446	Nurse Anesthetists
+447	Postmasters and Mail Superintendents
+448	Geophysical Data Technicians
+449	Environmental Engineering Technicians
+450	Music Composers and Arrangers
+451	Industrial Ecologists
+452	Marine Architects
+453	Surgeons
+454	Sound Engineering Technicians
+455	Criminal Justice and Law Enforcement Teachers, Postsecondary
+456	Clinical Nurse Specialists
+457	Computer Occupations, All Other
+458	Telecommunications Equipment Installers and Repairers, Except Line Installers
+459	Physician Assistants
+460	Solar Energy Installation Managers
+461	Postal Service Clerks
+462	Survey Researchers
+463	Park Naturalists
+464	Philosophy and Religion Teachers, Postsecondary
+465	Fabric and Apparel Patternmakers
+466	Electricians
+467	Computer Systems Engineers/Architects
+468	Police Patrol Officers
+469	Range Managers
+470	Archivists
+471	Molecular and Cellular Biologists
+472	Brownfield Redevelopment Specialists and Site Managers
+473	First-Line Supervisors of All Other Tactical Operations Specialists
+474	Radiologists
+475	Environmental Restoration Planners
+476	Construction Laborers
+477	Farm and Ranch Managers
+478	Assemblers and Fabricators, All Other
+479	Reservation and Transportation Ticket Agents and Travel Clerks
+480	Art Therapists
+481	Air Traffic Controllers
+482	Neurologists
+483	Automotive Engineering Technicians
+484	Travel Guides
+485	Actuaries
+486	Hairdressers, Hairstylists, and Cosmetologists
+487	Set and Exhibit Designers
+488	Drafters, All Other
+489	Physical Medicine and Rehabilitation Physicians
+490	Nonfarm Animal Caretakers
+491	Environmental Science Teachers, Postsecondary
+492	Electrical Engineering Technologists
+493	Loan Interviewers and Clerks
+494	Mining and Geological Engineers, Including Mining Safety Engineers
+495	Infantry Officers
+496	Music Directors and Composers
+497	Biologists
+498	Fuel Cell Engineers
+499	Manufacturing Production Technicians
+500	Environmental Economists
+501	Securities and Commodities Traders
+502	Security Guards
+503	Bailiffs
+504	Computer Hardware Engineers
+505	Geothermal Production Managers
+506	Music Directors
+507	Couriers and Messengers
+508	Mathematicians
+509	First-Line Supervisors of Logging Workers
+510	Pest Control Workers
+511	Cooks, Restaurant
+512	Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+513	Naturopathic Physicians
+514	Audiologists
+515	Textile, Apparel, and Furnishings Workers, All Other
+516	Museum Technicians and Conservators
+517	Music Therapists
+518	Clinical, Counseling, and School Psychologists
+519	Baggage Porters and Bellhops
+520	Personal Care and Service Workers, All Other
+521	Dining Room and Cafeteria Attendants and Bartender Helpers
+522	Criminal Investigators and Special Agents
+523	Engineers, All Other
+524	Travel Agents
+525	Spa Managers
+526	Word Processors and Typists
+527	Allergists and Immunologists
+528	Energy Auditors
+529	Private Detectives and Investigators
+530	Occupational Therapy Aides
+531	Wind Energy Engineers
+532	Statement Clerks
+533	Psychiatric Aides
+534	Insurance Claims Clerks
+535	Hospitalists
+536	Geography Teachers, Postsecondary
+537	Photonics Technicians
+538	Massage Therapists
+539	Animal Scientists
+540	Court Reporters
+541	Phlebotomists
+542	Singers
+543	Geological Sample Test Technicians
+544	Geodetic Surveyors
+545	Exercise Physiologists
+546	Dental Assistants
+547	Technical Directors/Managers
+548	Fishers and Related Fishing Workers
+549	Hydroelectric Plant Technicians
+550	Nuclear Medicine Physicians
+551	Credit Authorizers
+552	Nanosystems Engineers
+553	Credit Checkers
+554	Occupational Therapy Assistants
+555	Adult Basic and Secondary Education and Literacy Teachers and Instructors
+556	Environmental Science and Protection Technicians, Including Health
+557	Forest and Conservation Technicians
+558	Government Property Inspectors and Investigators
+559	Electrical and Electronic Equipment Assemblers
+560	Bakers
+561	Special Forces Officers
+562	Healthcare Support Workers, All Other
+563	Judges, Magistrate Judges, and Magistrates
+564	Police, Fire, and Ambulance Dispatchers
+565	Retail Loss Prevention Specialists
+566	Order Clerks
+567	Computer Operators
+568	Correspondence Clerks
+569	Licensed Practical and Licensed Vocational Nurses
+570	Computer, Automated Teller, and Office Machine Repairers
+571	Billing and Posting Clerks
+572	Chemical Equipment Operators and Tenders
+573	Securities, Commodities, and Financial Services Sales Agents
+574	Shoe Machine Operators and Tenders
+575	Electrical and Electronic Engineering Technicians
+576	Telecommunications Line Installers and Repairers
+577	Home Economics Teachers, Postsecondary
+578	Veterinarians
+579	Veterinary Technologists and Technicians
+580	Dental Hygienists
+581	Helpers--Production Workers
+582	Intelligence Analysts
+583	Preventive Medicine Physicians
+584	Air Crew Members
+585	Airfield Operations Specialists
+586	Acute Care Nurses
+587	License Clerks
+588	Aircraft Cargo Handling Supervisors
+589	Radio Operators
+590	Physical Therapist Aides
+591	Aquacultural Managers
+592	Printing Press Operators
+593	Driver/Sales Workers
+594	Switchboard Operators, Including Answering Service
+595	Assessors
+596	Hydroelectric Production Managers
+597	Patternmakers, Metal and Plastic
+598	Immigration and Customs Inspectors
+599	First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+600	Farmworkers, Farm, Ranch, and Aquacultural Animals
+601	Special Forces
+602	Transit and Railroad Police
+603	Construction Carpenters
+604	Environmental Scientists and Specialists, Including Health
+605	Correctional Officers and Jailers
+606	Weatherization Installers and Technicians
+607	Claims Adjusters, Examiners, and Investigators
+608	Artists and Related Workers, All Other
+609	Industrial Machinery Mechanics
+610	Control and Valve Installers and Repairers, Except Mechanical Door
+611	Sales and Related Workers, All Other
+612	Municipal Clerks
+613	Electromechanical Engineering Technologists
+614	Orthotists and Prosthetists
+615	Appraisers, Real Estate
+616	Radio Frequency Identification Device Specialists
+617	Power Distributors and Dispatchers
+618	Customs Brokers
+619	Office Machine Operators, Except Computer
+620	Fraud Examiners, Investigators and Analysts
+621	Rough Carpenters
+622	Social Scientists and Related Workers, All Other
+623	Sheriffs and Deputy Sheriffs
+624	Financial Specialists, All Other
+625	Psychologists, All Other
+626	Nuclear Engineers
+627	Sheet Metal Workers
+628	Model Makers, Wood
+629	Electronics Engineering Technologists
+630	Bioinformatics Technicians
+631	Licensing Examiners and Inspectors
+632	Farm Labor Contractors
+633	Electrical Engineering Technicians
+634	Procurement Clerks
+635	Health Technologists and Technicians, All Other
+636	Sociologists
+637	Painters, Construction and Maintenance
+638	Cardiovascular Technologists and Technicians
+639	Air Crew Officers
+640	Automotive Specialty Technicians
+641	Cytogenetic Technologists
+642	Remote Sensing Scientists and Technologists
+643	Gaming Managers
+644	Microbiologists
+645	Medical Transcriptionists
+646	Physics Teachers, Postsecondary
+647	Maids and Housekeeping Cleaners
+648	Dancers
+649	Food Servers, Nonrestaurant
+650	Parking Enforcement Workers
+651	Radiologic Technologists
+652	Flight Attendants
+653	Team Assemblers
+654	First-Line Supervisors of Agricultural Crop and Horticultural Workers
+655	Aircraft Mechanics and Service Technicians
+656	Community and Social Service Specialists, All Other
+657	Probation Officers and Correctional Treatment Specialists
+658	Telephone Operators
+659	Freight Forwarders
+660	Nanotechnology Engineering Technicians
+661	Artillery and Missile Crew Members
+662	Nuclear Equipment Operation Technicians
+663	Hearing Aid Specialists
+664	Psychiatrists
+665	Title Examiners, Abstractors, and Searchers
+666	Highway Maintenance Workers
+667	Geneticists
+668	Farmworkers and Laborers, Crop
+669	Commercial Pilots
+670	First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+671	Soil and Plant Scientists
+672	Paving, Surfacing, and Tamping Equipment Operators
+673	Rotary Drill Operators, Oil and Gas
+674	Civil Drafters
+675	Artillery and Missile Officers
+676	Metal Workers and Plastic Workers, All Other
+677	Fish and Game Wardens
+678	Materials Engineers
+679	Cooks, Institution and Cafeteria
+680	Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+681	Anthropology and Archeology Teachers, Postsecondary
+682	Helpers--Installation, Maintenance, and Repair Workers
+683	Surveyors
+684	Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+685	Cartographers and Photogrammetrists
+686	Diagnostic Medical Sonographers
+687	Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+688	Nurse Midwives
+689	Construction and Building Inspectors
+690	Ophthalmic Medical Technicians
+691	Gaming Surveillance Officers and Gaming Investigators
+692	Insurance Claims and Policy Processing Clerks
+693	Costume Attendants
+694	Public Address System and Other Announcers
+695	Locker Room, Coatroom, and Dressing Room Attendants
+696	Pharmacy Aides
+697	Automotive Body and Related Repairers
+698	Makeup Artists, Theatrical and Performance
+699	Special Education Teachers, Kindergarten and Elementary School
+700	Floral Designers
+701	Forestry and Conservation Science Teachers, Postsecondary
+702	Musicians, Instrumental
+703	Water and Wastewater Treatment Plant and System Operators
+704	Soil and Water Conservationists
+705	Machine Feeders and Offbearers
+706	Data Warehousing Specialists
+707	Information and Record Clerks, All Other
+708	Insurance Appraisers, Auto Damage
+709	First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+710	Cleaners of Vehicles and Equipment
+711	Neurodiagnostic Technologists
+712	Crossing Guards
+713	Equal Opportunity Representatives and Officers
+714	Butchers and Meat Cutters
+715	Order Fillers, Wholesale and Retail Sales
+716	Epidemiologists
+717	Funeral Attendants
+718	Welders, Cutters, and Welder Fitters
+719	Court, Municipal, and License Clerks
+720	Roustabouts, Oil and Gas
+721	Religious Workers, All Other
+722	Veterinary Assistants and Laboratory Animal Caretakers
+723	Entertainers and Performers, Sports and Related Workers, All Other
+724	Geographers
+725	Designers, All Other
+726	Electrical Power-Line Installers and Repairers
+727	Dispatchers, Except Police, Fire, and Ambulance
+728	Maintenance and Repair Workers, General
+729	Barbers
+730	Postal Service Mail Carriers
+731	Therapists, All Other
+732	Motorboat Operators
+733	Detectives and Criminal Investigators
+734	Robotics Engineers
+735	Ship and Boat Captains
+736	Automotive Master Mechanics
+737	Commercial Divers
+738	Electronic Home Entertainment Equipment Installers and Repairers
+739	Forest Fire Fighting and Prevention Supervisors
+740	Neuropsychologists and Clinical Neuropsychologists
+741	Radiation Therapists
+742	Police Detectives
+743	Obstetricians and Gynecologists
+744	Anthropologists and Archeologists
+745	Forest Fire Inspectors and Prevention Specialists
+746	Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+747	Healthcare Practitioners and Technical Workers, All Other
+748	Hydrologists
+749	Gaming and Sports Book Writers and Runners
+750	Surgical Technologists
+751	Solar Photovoltaic Installers
+752	Pathologists
+753	Robotics Technicians
+754	Mail Clerks and Mail Machine Operators, Except Postal Service
+755	Machinists
+756	Prepress Technicians and Workers
+757	Magnetic Resonance Imaging Technologists
+758	Fire Inspectors
+759	Agricultural Workers, All Other
+760	Electrical and Electronics Repairers, Commercial and Industrial Equipment
+761	Light Truck or Delivery Services Drivers
+762	Helpers--Electricians
+763	Forest Firefighters
+764	Jewelers
+765	Medical Appliance Technicians
+766	Biomass Plant Technicians
+767	Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+768	Infantry
+769	Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+770	Ophthalmic Medical Technologists
+771	Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+772	Refuse and Recyclable Material Collectors
+773	Rail Car Repairers
+774	Agricultural Equipment Operators
+775	Police Identification and Records Officers
+776	Podiatrists
+777	Shampooers
+778	Mapping Technicians
+779	Transportation Workers, All Other
+780	Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+781	Animal Trainers
+782	Forest and Conservation Workers
+783	Service Unit Operators, Oil, Gas, and Mining
+784	Nursery Workers
+785	Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+786	First-Line Supervisors of Animal Husbandry and Animal Care Workers
+787	Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists
+788	Dietetic Technicians
+789	Forensic Science Technicians
+790	Bus Drivers, Transit and Intercity
+791	Gaming Dealers
+792	Respiratory Therapy Technicians
+793	Geothermal Technicians
+794	Zoologists and Wildlife Biologists
+795	Surveying Technicians
+796	Operating Engineers and Other Construction Equipment Operators
+797	Painting, Coating, and Decorating Workers
+798	Nuclear Medicine Technologists
+799	Ophthalmic Laboratory Technicians
+800	Recycling Coordinators
+801	Millwrights
+802	Power Plant Operators
+803	Transportation Security Screeners
+804	Choreographers
+805	Rail-Track Laying and Maintenance Equipment Operators
+806	Petroleum Pump System Operators, Refinery Operators, and Gaugers
+807	Occupational Health and Safety Technicians
+808	Sewers, Hand
+809	Nannies
+810	Life, Physical, and Social Science Technicians, All Other
+811	Gaming Change Persons and Booth Cashiers
+812	Electrical and Electronics Installers and Repairers, Transportation Equipment
+813	Gaming Supervisors
+814	Acupuncturists
+815	Semiconductor Processors
+816	Food Batchmakers
+817	Chemical Plant and System Operators
+818	Life Scientists, All Other
+819	Medical Equipment Preparers
+820	Avionics Technicians
+821	Bus Drivers, School or Special Client
+822	Stonemasons
+823	Compliance Officers
+824	Motion Picture Projectionists
+825	Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+826	Interviewers, Except Eligibility and Loan
+827	Radiologic Technicians
+828	Dermatologists
+829	Sailors and Marine Oilers
+830	Continuous Mining Machine Operators
+831	Morticians, Undertakers, and Funeral Directors
+832	Financial Clerks, All Other
+833	Methane/Landfill Gas Collection System Operators
+834	Health Diagnosing and Treating Practitioners, All Other
+835	Nuclear Monitoring Technicians
+836	Sewing Machine Operators
+837	Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+838	Embalmers
+839	Aircraft Launch and Recovery Specialists
+840	Appraisers and Assessors of Real Estate
+841	Radio, Cellular, and Tower Equipment Installers and Repairers
+842	Photonics Engineers
+843	Traffic Technicians
+844	Camera and Photographic Equipment Repairers
+845	Security and Fire Alarm Systems Installers
+846	Adhesive Bonding Machine Operators and Tenders
+847	Logging Workers, All Other
+848	Gaming Service Workers, All Other
+849	Animal Control Workers
+850	Helpers--Carpenters
+851	Computer-Controlled Machine Tool Operators, Metal and Plastic
+852	Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+853	Transportation Attendants, Except Flight Attendants
+854	Installation, Maintenance, and Repair Workers, All Other
+855	Hazardous Materials Removal Workers
+856	Foresters
+857	Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+858	Gas Plant Operators
+859	Shoe and Leather Workers and Repairers
+860	Musical Instrument Repairers and Tuners
+861	Model Makers, Metal and Plastic
+862	Endoscopy Technicians
+863	Bicycle Repairers
+864	Parking Lot Attendants
+865	Gas Compressor and Gas Pumping Station Operators
+866	Pesticide Handlers, Sprayers, and Applicators, Vegetation
+867	Credit Authorizers, Checkers, and Clerks
+868	Armored Assault Vehicle Officers
+869	Helpers, Construction Trades, All Other
+870	Taxi Drivers and Chauffeurs
+871	Outdoor Power Equipment and Other Small Engine Mechanics
+872	Nuclear Power Reactor Operators
+873	Heating and Air Conditioning Mechanics and Installers
+874	Coroners
+875	Mixing and Blending Machine Setters, Operators, and Tenders
+876	Cooks, Short Order
+877	Electronic Equipment Installers and Repairers, Motor Vehicles
+878	Cabinetmakers and Bench Carpenters
+879	Rail Yard Engineers, Dinkey Operators, and Hostlers
+880	Packaging and Filling Machine Operators and Tenders
+881	Maintenance Workers, Machinery
+882	Ophthalmologists
+883	Marking Clerks
+884	Painters, Transportation Equipment
+885	Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic
+886	Medical Equipment Repairers
+887	Communications Equipment Operators, All Other
+888	Locksmiths and Safe Repairers
+889	Firefighters
+890	Stock Clerks and Order Fillers
+891	Armored Assault Vehicle Crew Members
+892	Mobile Heavy Equipment Mechanics, Except Engines
+893	Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+894	Laundry and Dry-Cleaning Workers
+895	Fabric Menders, Except Garment
+896	Automotive and Watercraft Service Attendants
+897	Construction and Related Workers, All Other
+898	Aviation Inspectors
+899	Meter Readers, Utilities
+900	Mates- Ship, Boat, and Barge
+901	Pilots, Ship
+902	Wind Energy Operations Managers
+903	Cutters and Trimmers, Hand
+904	Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+905	Manufactured Building and Mobile Home Installers
+906	Pump Operators, Except Wellhead Pumpers
+907	Slot Supervisors
+908	Food Cooking Machine Operators and Tenders
+909	Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+910	Electric Motor, Power Tool, and Related Repairers
+911	Plumbers, Pipefitters, and Steamfitters
+912	Hoist and Winch Operators
+913	Dishwashers
+914	Bridge and Lock Tenders
+915	Plumbers
+916	Septic Tank Servicers and Sewer Pipe Cleaners
+917	Pipe Fitters and Steamfitters
+918	Non-Destructive Testing Specialists
+919	Ship Engineers
+920	Coin, Vending, and Amusement Machine Servicers and Repairers
+921	Sawing Machine Setters, Operators, and Tenders, Wood
+922	Midwives
+923	Marine Engineers
+924	Upholsterers
+925	Manufacturing Engineering Technologists
+926	Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+927	Tree Trimmers and Pruners
+928	Fire Investigators
+929	Textile Bleaching and Dyeing Machine Operators and Tenders
+930	Wind Turbine Service Technicians
+931	Explosives Workers, Ordnance Handling Experts, and Blasters
+932	Protective Service Workers, All Other
+933	Packers and Packagers, Hand
+934	Dental Laboratory Technicians
+935	Furniture Finishers
+936	Media and Communication Equipment Workers, All Other
+937	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+938	Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+939	Physical Scientists, All Other
+940	Police and Sheriff's Patrol Officers
+941	Anesthesiologist Assistants
+942	Fire Inspectors and Investigators
+943	Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+944	Carpet Installers
+945	Agricultural Inspectors
+946	Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+947	Cement Masons and Concrete Finishers
+948	Surveying and Mapping Technicians
+949	Molding and Casting Workers
+950	Captains, Mates, and Pilots of Water Vessels
+951	Railroad Conductors and Yardmasters
+952	Urologists
+953	Tailors, Dressmakers, and Custom Sewers
+954	Cooks, Private Household
+955	Postal Service Mail Sorters, Processors, and Processing Machine Operators
+956	Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+957	First-Line Supervisors of Air Crew Members
+958	Industrial Truck and Tractor Operators
+959	Aircraft Launch and Recovery Officers
+960	Carpenters
+961	Mathematical Science Occupations, All Other
+962	Pipelayers
+963	Motorcycle Mechanics
+964	Stationary Engineers and Boiler Operators
+965	Graders and Sorters, Agricultural Products
+966	Conveyor Operators and Tenders
+967	Animal Breeders
+968	Histotechnologists and Histologic Technicians
+969	Biological Scientists, All Other
+970	Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+971	Locomotive Engineers
+972	Marine Engineers and Naval Architects
+973	Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+974	Metal-Refining Furnace Operators and Tenders
+975	Brickmasons and Blockmasons
+976	Derrick Operators, Oil and Gas
+977	Tire Repairers and Changers
+978	Tool and Die Makers
+979	Food Preparation and Serving Related Workers, All Other
+980	Structural Iron and Steel Workers
+981	Mathematical Technicians
+982	Fiberglass Laminators and Fabricators
+983	Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+984	Extraction Workers, All Other
+985	Fallers
+986	Rock Splitters, Quarry
+987	Cooling and Freezing Equipment Operators and Tenders
+988	Rail Transportation Workers, All Other
+989	Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+990	Elevator Installers and Repairers
+991	Agricultural and Food Science Technicians
+992	Geological and Petroleum Technicians
+993	Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+994	Architectural and Civil Drafters
+995	Automotive Service Technicians and Mechanics
+996	Grinding and Polishing Workers, Hand
+997	Welders, Cutters, Solderers, and Brazers
+998	Subway and Streetcar Operators
+999	Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+1000	Slaughterers and Meat Packers
+1001	Pourers and Casters, Metal
+1002	Manicurists and Pedicurists
+1003	Boilermakers
+1004	Riggers
+1005	Etchers and Engravers
+1006	Media and Communication Workers, All Other
+1007	Material Moving Workers, All Other
+1008	Cutting and Slicing Machine Setters, Operators, and Tenders
+1009	Jewelers and Precious Stone and Metal Workers
+1010	Mine Shuttle Car Operators
+1011	Mechanical Door Repairers
+1012	Farm Equipment Mechanics and Service Technicians
+1013	Insulation Workers, Mechanical
+1014	Textile Cutting Machine Setters, Operators, and Tenders
+1015	Mine Cutting and Channeling Machine Operators
+1016	Special Education Teachers, All Other
+1017	Tile and Marble Setters
+1018	Home Appliance Repairers
+1019	Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+1020	Solderers and Brazers
+1021	Transportation Inspectors
+1022	Paper Goods Machine Setters, Operators, and Tenders
+1023	Recreational Vehicle Service Technicians
+1024	Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+1025	Railroad Brake, Signal, and Switch Operators
+1026	Meat, Poultry, and Fish Cutters and Trimmers
+1027	Hunters and Trappers
+1028	Precision Agriculture Technicians
+1029	Pressers, Textile, Garment, and Related Materials
+1030	Excavating and Loading Machine and Dragline Operators
+1031	First-Line Supervisors of Farming, Fishing, and Forestry Workers
+1032	Molders, Shapers, and Casters, Except Metal and Plastic
+1033	Tool Grinders, Filers, and Sharpeners
+1034	Bus and Truck Mechanics and Diesel Engine Specialists
+1035	Education, Training, and Library Workers, All Other
+1036	Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+1037	Glass Blowers, Molders, Benders, and Finishers
+1038	Automotive Glass Installers and Repairers
+1039	Tank Car, Truck, and Ship Loaders
+1040	Biofuels Processing Technicians
+1041	Structural Metal Fabricators and Fitters
+1042	Floor Layers, Except Carpet, Wood, and Hard Tiles
+1043	Reinforcing Iron and Rebar Workers
+1044	Engine and Other Machine Assemblers
+1045	First-Line Supervisors of Aquacultural Workers
+1046	Gaming Cage Workers
+1047	Tire Builders
+1048	Fence Erectors
+1049	Fuel Cell Technicians
+1050	Cooks, All Other
+1051	Earth Drillers, Except Oil and Gas
+1052	Wellhead Pumpers
+1053	Pile-Driver Operators
+1054	Signal and Track Switch Repairers
+1055	Gem and Diamond Workers
+1056	Paperhangers
+1057	Coil Winders, Tapers, and Finishers
+1058	Radio Mechanics
+1059	Dentists, All Other Specialists
+1060	Electrical and Electronics Drafters
+1061	Methane/Landfill Gas Generation System Technicians
+1062	Log Graders and Scalers
+1063	Segmental Pavers
+1064	Plasterers and Stucco Masons
+1065	Grounds Maintenance Workers, All Other
+1066	First-Line Supervisors of Protective Service Workers, All Other
+1067	Refrigeration Mechanics and Installers
+1068	First-Line Supervisors of Fire Fighting and Prevention Workers
+1069	Precision Instrument and Equipment Repairers, All Other
+1070	Print Binding and Finishing Workers
+1071	Roofers
+1072	Freight and Cargo Inspectors
+1073	Watch Repairers

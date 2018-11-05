@@ -1,0 +1,92 @@
+18 Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+26 Engineering Technicians, Except Drafters, All Other
+30 First-Line Supervisors of Non-Retail Sales Workers
+40 Architects, Except Landscape and Naval
+62 Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic
+75 Health Specialties Teachers, Postsecondary
+104 Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+111 Medical Scientists, Except Epidemiologists
+117 Proofreaders and Copy Markers
+135 Amusement and Recreation Attendants
+139 Merchandise Displayers and Window Trimmers
+166 Foreign Language and Literature Teachers, Postsecondary
+183 Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+188 Door-To-Door Sales Workers, News and Street Vendors, and Related Workers
+208 Purchasing Agents, Except Wholesale, Retail, and Farm Products
+232 Political Science Teachers, Postsecondary
+247 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+282 Inspectors, Testers, Sorters, Samplers, and Weighers
+286 Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+315 Ushers, Lobby Attendants, and Ticket Takers
+318 Area, Ethnic, and Cultural Studies Teachers, Postsecondary
+328 Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other
+346 Production, Planning, and Expediting Clerks
+363 Administrative Law Judges, Adjudicators, and Hearing Officers
+367 Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+380 Laborers and Freight, Stock, and Material Movers, Hand
+408 Stock Clerks- Stockroom, Warehouse, or Storage Yard
+427 First-Line Supervisors of Personal Service Workers
+454 Criminal Justice and Law Enforcement Teachers, Postsecondary
+457 Telecommunications Equipment Installers and Repairers, Except Line Installers
+463 Philosophy and Religion Teachers, Postsecondary
+478 Reservation and Transportation Ticket Agents and Travel Clerks
+511 Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+520 Dining Room and Cafeteria Attendants and Bartender Helpers
+569 Computer, Automated Teller, and Office Machine Repairers
+570 Billing and Posting Clerks
+571 Chemical Equipment Operators and Tenders
+573 Shoe Machine Operators and Tenders
+598 First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+648 Food Servers, Nonrestaurant
+653 First-Line Supervisors of Agricultural Crop and Horticultural Workers
+686 Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+700 Forestry and Conservation Science Teachers, Postsecondary
+704 Machine Feeders and Offbearers
+708 First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+726 Dispatchers, Except Police, Fire, and Ambulance
+753 Mail Clerks and Mail Machine Operators, Except Postal Service
+766 Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+768 Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+779 Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+784 Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+785 First-Line Supervisors of Animal Husbandry and Animal Care Workers
+805 Petroleum Pump System Operators, Refinery Operators, and Gaugers
+810 Gaming Change Persons and Booth Cashiers
+824 Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+825 Interviewers, Except Eligibility and Loan
+836 Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+845 Adhesive Bonding Machine Operators and Tenders
+851 Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+874 Mixing and Blending Machine Setters, Operators, and Tenders
+879 Packaging and Filling Machine Operators and Tenders
+889 Stock Clerks and Order Fillers
+891 Mobile Heavy Equipment Mechanics, Except Engines
+892 Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+894 Fabric Menders, Except Garment
+903 Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+919 Coin, Vending, and Amusement Machine Servicers and Repairers
+920 Sawing Machine Setters, Operators, and Tenders, Wood
+928 Textile Bleaching and Dyeing Machine Operators and Tenders
+930 Explosives Workers, Ordnance Handling Experts, and Blasters
+932 Packers and Packagers, Hand
+937 Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+942 Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+945 Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+969 Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+972 Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+973 Metal-Refining Furnace Operators and Tenders
+982 Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+986 Cooling and Freezing Equipment Operators and Tenders
+988 Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+992 Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+998 Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+999 Slaughterers and Meat Packers
+1007 Cutting and Slicing Machine Setters, Operators, and Tenders
+1013 Textile Cutting Machine Setters, Operators, and Tenders
+1021 Paper Goods Machine Setters, Operators, and Tenders
+1030 First-Line Supervisors of Farming, Fishing, and Forestry Workers
+1035 Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+1036 Glass Blowers, Molders, Benders, and Finishers
+1041 Floor Layers, Except Carpet, Wood, and Hard Tiles
+1044 First-Line Supervisors of Aquacultural Workers
+1056 Coil Winders, Tapers, and Finishers
